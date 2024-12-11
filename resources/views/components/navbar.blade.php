@@ -1,19 +1,26 @@
-<header class="max-w-[86rem] shadow-md border-2 bg-white mx-auto mt-5  rounded-xl sticky top-5 z-10">
-  <div class="max-w-[86rem] flex justify-between mx-auto text-gray-600 font-[600] p-3 w-full h-[80px] items-center ">
-  <a href="" class="xl:w-[150px] font-bold "><img src="img/logo.png" alt=""></a>
-  
-  <nav class=" text-[1rem] xl:text-[.9rem] flex gap-14">
+<header class="mx-8">
+  <div
+    class="max-w-screen-xl border bg-white mt-5 rounded-full shadow-lg px-10 sticky top-5 z-10 flex justify-between mx-auto text-gray-600 font-[600] p-3 w-full h-[80px] items-center ">
+    <a href="" class="w-14 p-1 font-bold "><img src="img/logo.jpeg" alt=""></a>
+
+    <nav class="nav-links text-[1rem] xl:text-[.9rem] hidden md:flex gap-12">
       <a href="/" :active="request()->is('/')">Beranda</a>
       <a href="/belajar" :active="request()->is('/belajar')">Belajar</a>
       <a href="/about" :active="request()->is('about')">Tentang Kami</a>
       <a href="https://discord.gg/DShrPFN6" target="_blank" :active="request()->is('project')">Komunitas</a>
 
+      
+    
+    </nav>
+    <i onclick="onToggleMenu(this)" name="menu" class="fa-solid fa-bars lg:hidden flex text-2xl"></i>
 
-  </nav>
-  <div class="logo flex gap-2">
-      <a href="" class="xl:text-[.8rem] rounded-full h-[44px] w-[90px] border border-1 inline-flex justify-center items-center hover:bg-gray-100">Daftar</a>
-      <a href="" class="xl:text-[.8rem] rounded-full h-[44px] w-[90px] text-white inline-flex bg-black transition-colors hover:bg-[#9999F4] justify-center items-center ">Masuk</a>
   </div>
-
-</div>
 </header>
+
+<script>
+  const navLinks = document.querySelector('.nav-links')
+  function onToggleMenu(e) {
+  e.name = e.name === 'menu' ? 'close' : 'menu'
+  navLinks.classList.toggle("lg:flex");
+  }
+</script>
