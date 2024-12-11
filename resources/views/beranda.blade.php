@@ -4,7 +4,7 @@
 
     <section class=" mt-8 bg-white">
         <div
-            class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 mb-8 bg-[url('img/bgHeader.png')] bg-cover bg-center h-[600px]">
+            class="flex lg:flex-row flex-col-reverse justify-center w-full  items-center max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 mb-8 ">
             <div class="mr-auto place-self-center lg:col-span-7">
                 <h1
                     class="max-w-2xl mb-4 text-4xl font-bold tracking-tight leading-none md:text-5xl xl:text-7xl dark:text-white">
@@ -28,8 +28,8 @@
                     Hubungi Kami
                 </a>
             </div>
-            <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img src="img/mockup.png" alt="mockup" class="animate-wiggle">
+            <div class=" lg:mt-0 lg:col-span-5 lg:flex">
+                <img src="img/mockup.png" alt="mockup" class="h-[30rem] animate-wiggle">
             </div>
         </div>
 
@@ -231,7 +231,7 @@
 
         <div class="bg-gray-800 h-96 mx-auto text-center content-center mt-20">
             <h1 class=" text-3xl lg:text-5xl text-white font-bold mb-10">Mulai Belajar Pemrograman Disini!</h1>
-            <button class="bg-sky-500 text-white rounded-md w-52 p-3 font-bold">Mulai Sekarang</button>
+            <a href="/belajar" class="bg-sky-500 text-white rounded-md w-52 p-4 font-bold">Mulai Sekarang</a>
         </div>
 
 

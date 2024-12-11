@@ -1,6 +1,6 @@
 <header class="mx-8">
   <div
-    class="max-w-screen-xl border bg-white mt-5 rounded-full shadow-lg px-10 sticky top-5 z-10 flex justify-between mx-auto text-gray-600 font-[600] p-3 w-full h-[80px] items-center ">
+    class="max-w-screen-xl border bg-white mt-5 rounded-full shadow-lg px-10  flex justify-between mx-auto text-gray-600 font-[600] p-3 w-full h-[80px] items-center ">
     <a href="" class="w-14 p-1 font-bold "><img src="img/logo.jpeg" alt=""></a>
 
     <nav class="nav-links text-[1rem] xl:text-[.9rem] hidden md:flex gap-12">

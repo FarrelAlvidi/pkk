@@ -40,7 +40,7 @@
           <p class="mt-5 text-lg">Untuk kamu yang belum tahu gimana caranya masukin sesuatu ke website. Kamu nanti bakal
             belajar gimana caranya buat teks tapi bisa masuk kedalam website, bahkan tabel juga! Ini adalah langkah awal
             yang penting banget sebelum kamu mau buat banyak hal.</p>
-          <a href="https://wa.me/+6289534549006?text=Halo+kak%2C+Saya+ingin+Memesan+Paket+HTML+Dasar"
+          <a href="https://wa.link/0p2hsz"
             class="inline-flex items-center justify-center px-5 py-3 mr-3 mt-5 text-base font-medium text-center text-white rounded-md hover:bg-sky-700 bg-sky-600 transition-all duration-200 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
             Pesan Paket
             <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -61,7 +61,7 @@
             keren karena polos? Cocok banget karena kamu nanti bakal belajar gimana caranya memberi styling kepada
             setiap
             komponen yang udah kamu buat lewat html dasar.</p>
-          <a href="https://wa.me/+6289534549006?text=Halo+kak%2C+Saya+ingin+Memesan+Paket+HTML+dan+CSS"
+          <a href="https://wa.link/j9pbov"
             class="inline-flex items-center justify-center px-5 py-3 mr-3 mt-5 text-base font-medium text-center text-white rounded-md hover:bg-sky-700 bg-sky-600 transition-all duration-200 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
             Pesan Paket
             <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -82,7 +82,7 @@
             dasar,
             bootstrap cocok buat kamu nih karena penggunaan css tidak sepenuhnya digunakan secara manual menggunakan
             bootstrap, styling cepat dan juga praktis dengan belajar bootstrap!</p>
-          <a href="https://wa.me/+6289534549006?text=Halo+kak%2C+Saya+ingin+Memesan+Paket+Bootstrap"
+          <a href="https://wa.link/0p2hsz"
             class="inline-flex items-center justify-center px-5 py-3 mr-3 mt-5 text-base font-medium text-center text-white rounded-md hover:bg-sky-700 bg-sky-600 transition-all duration-200 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
             Pesan Paket
             <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -102,7 +102,7 @@
           <p class="mt-5 text-lg">Untuk kamu yang udah paham dasar-dasar HTML dan pengen bawa website kamu ke level yang
             lebih keren, kursus ini bakal bantu kamu banget! untuk memberikan desain yang kece tanpa harus nulis banyak
             kode. Siap-siap bikin website yang bukan cuma berfungsi, tapi juga stylish!</p>
-          <a href="https://wa.me/+6289534549006?text=Halo+kak%2C+Saya+ingin+Memesan+Paket+Tailwind"
+          <a href="https://wa.link/0p2hsz"
             class="inline-flex items-center justify-center px-5 py-3 mr-3 mt-5 text-base font-medium text-center text-white rounded-md hover:bg-sky-700 bg-sky-600 transition-all duration-200 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
             Pesan Paket
             <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
