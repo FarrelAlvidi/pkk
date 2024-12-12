@@ -12,7 +12,7 @@
     <title>{{$title}}</title>
 
 </head>
-<body>
+<body class="pt-20">
     
     <x-navbar></x-navbar>
 

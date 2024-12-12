@@ -28,7 +28,7 @@
                     Hubungi Kami
                 </a>
             </div>
-            <div class=" lg:mt-0 lg:col-span-5 lg:flex">
+            <div class=" lg:flex">
                 <img src="img/mockup.png" alt="mockup" class="h-[30rem] animate-wiggle">
             </div>
         </div>
